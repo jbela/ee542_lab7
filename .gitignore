@@ -1,0 +1,5 @@
+PetImages/
+data/
+dataset_split.csv
+__pycache__/
+results/
